@@ -2,15 +2,15 @@
 
 ## Description
 
-FaceUp est une application mobile qui vous permet de capturer, sauvegarder et visualiser vos photos préférées en un seul endroit.
+FaceUp is a mobile application that allows you to capture, save, and view your favorite photos in one place.
 
-## Fonctionnalités
+## Features
 
-- Prendre des photos à l'aide de l'appareil photo intégré de votre téléphone.
-- Enregistrement des photos dans une galerie intégrée.
-- Visualisation de vos photos à tout moment.
+- Take photos using your phone's built-in camera.
+- Save photos in an integrated gallery.
+- View your photos at any time.
 
-## Technologies Utilisées
+## Technologies Used
 
 - React Native
 - Expo
@@ -18,4 +18,4 @@ FaceUp est une application mobile qui vous permet de capturer, sauvegarder et vi
 
 ## Contribution
 
-Pour contribuer à ce projet, veuillez consulter notre [guide de contribution](CONTRIBUTING.md).
+To contribute to this project, please see our [contribution guide](CONTRIBUTING.md).
